@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on small projects to develop my skills working in a team as well as continuing to improve my pyhton, CSS, HTML and JavaScript ability
-- 🌱 I’m currently learning more efficient ways to solve problems. If I encounter something I am unable to do, I enjoy figuring how to solve the problem. I think this is a fun way to challenge myself and learn
-- 📫 How to reach me: jacobholland2016@gmail.com 
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on small projects to develop my ability to work in a team as well as continuing to improve my python, CSS, HTML and JavaScript skills. I am also working on a project with a larger team to create an application for a well known tech company
+
+- 🌱 I’m currently learning a mixture of Bootstrap, React and Flask to allow me to create websites with good user interactability
+
+- 📫 Contact me at: jacobholland2016@gmail.com 
 
